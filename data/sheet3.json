@@ -1,1 +1,1 @@
-[]
+[{"CVE":"CVE-2026-20805","Vendor":"Microsoft","Product":"Windows","Type":"Information Disclosure","Description":"Desktop Window Manager Information Disclosure Vulnerability","Date Discovered":"???","Date Patched":"2026-01-13","Advisory":"https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-20805","Analysis URL":"","Root Cause Analysis":"","Reported By":"Microsoft Threat Intelligence Center and Microsoft Security Response Center"}]
